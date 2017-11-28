@@ -1,0 +1,36 @@
+.formdiv {
+	border-radius: 5px;
+	background-color: #cccccc;
+	padding: 20px;
+	width: 50%;
+	margin: auto;
+	margin-top: 50px;
+}
+
+textarea{
+	resize: none;
+}
+
+input[type=text], select {
+	width: 100%;
+	padding: 15px 20px;
+	margin: 10px 0;
+	font-size: 16px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	font-family: 'Lato', sans-serif;
+
+}
+
+#stub{
+	width: 100%;
+	padding: 15px 20px;
+	margin: 10px 0;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+
+}
